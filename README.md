@@ -4,7 +4,7 @@
 
 ## Overview
 
-The Rust CLI Tool-Kit is a versatile command line toolkit designed to provide a range of utilities for developers and users. It includes tools for managing to-do lists, taking notes, integrating calendars, and color-coordinating errors for easier debugging.
+Hi! The Rust CLI Tool-Kit is a versatile command line toolkit that I designed to provide a range of utilities for developers and users. It includes tools for to-do lists, integrating calendars, and color-coordinating errors for easier debugging.
 
 ## Features
 
